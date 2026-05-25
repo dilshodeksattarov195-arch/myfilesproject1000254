@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervender",
+        "uuid": 2189988,
+        "checksum": "1qbfw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
